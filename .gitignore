@@ -1,0 +1,4 @@
+/build
+/node_modules
+/outputJsonFile.json
+/package-lock.json
